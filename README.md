@@ -17,7 +17,7 @@ POO Grupo teórico 05
 
 * [Link de Trello] https://trello.com/b/FFU6tVv6/proyecto-poo
 
-* [Link de los Mock Ups] 
+* [Link de los Mock Ups] https://github.com/CruzM-224/FaseFinalProyecto/blob/main/Mock%20Ups%20Finales.rar
 
 * [Link de la base de datos que hemos usado hasta el momento] 
 
