@@ -19,7 +19,7 @@ POO Grupo teórico 05
 
 * [Link de los Mock Ups] https://github.com/CruzM-224/FaseFinalProyecto/blob/main/Mock%20Ups%20Finales.rar
 
-* [Link de la base de datos que hemos usado hasta el momento] 
+* [Link de la base de datos que hemos usado hasta el momento] https://github.com/CruzM-224/FaseFinalProyecto/blob/main/Consultas.sql
 
 * [Link del programa del proyecto] 
 
