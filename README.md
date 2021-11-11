@@ -25,7 +25,7 @@ POO Grupo teórico 05
 
 * [Link del video del funcionamiento de la aplicación] https://www.youtube.com/watch?v=-bSijkXFlSg
 
-* [Link del manual de usuario] 
+* [Link del manual de usuario] https://github.com/CruzM-224/FaseFinalProyecto/blob/main/Manual%20de%20Usuario%20(1).pdf
 
 * [Link del manual tecnico] 
 
