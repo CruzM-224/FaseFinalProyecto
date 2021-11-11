@@ -27,6 +27,6 @@ POO Grupo teórico 05
 
 * [Link del manual de usuario] https://github.com/CruzM-224/FaseFinalProyecto/blob/main/Manual%20de%20Usuario%20(1).pdf
 
-* [Link del manual tecnico] 
+* [Link del manual tecnico] https://github.com/CruzM-224/FaseFinalProyecto/blob/main/Manual%20tecnico%201.0.pdf
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
